@@ -127,7 +127,7 @@
     "path-parse": "^1.0.7"
   },
   "scripts": {
-    "build:css": "tailwind build -i src/styles.css -o dist/css/styles.css"
+    "build:css": "tailwind build -i src/styles.css -o static/css/styles.css"
   },
   "keywords": [],
   "author": "",
