@@ -4,7 +4,7 @@
     "postcss": "^8.3.9",
     "tailwindcss": "^2.2.16"
   },
-  "name": "spef-test",
+  "name": "spef",
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
