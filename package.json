@@ -82,7 +82,7 @@
     "merge2": "^1.4.1",
     "micromatch": "^4.0.4",
     "minimatch": "^3.0.4",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "modern-normalize": "^1.1.0",
     "nanoid": "^3.1.29",
     "node-emoji": "^1.11.0",
